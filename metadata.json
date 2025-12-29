@@ -1,0 +1,8 @@
+
+{
+  "name": "Centro de Radiología Premium",
+  "description": "Una landing page moderna y profesional para un centro de diagnóstico por imagen, diseñada con un enfoque en UX emocional, confianza médica y conversión de pacientes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
